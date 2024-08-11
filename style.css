@@ -45,6 +45,7 @@ nav ul li {
   padding: 0 5vw;
   margin: auto;
   width: fit-content;
+  height:fit-content;
   border:solid red 2px;
 }
 .section1 {
