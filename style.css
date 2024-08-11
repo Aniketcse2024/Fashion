@@ -44,7 +44,8 @@ nav ul li {
 .container {
   padding: 0 5vw;
   margin: auto;
-  width: 94%;
+  width: 100%;
+  hieght:cover-content;
 }
 .section1 {
   background: #f5f5f5;
